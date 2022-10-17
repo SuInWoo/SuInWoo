@@ -10,4 +10,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbo1026)](https://solved.ac/wbo1026/)
 
 ### 📱 Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wbo1026@naver.com)](mailto:wbo1026@naver.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngjaelee1026/)](https://www.linkedin.com/in/youngjaelee1026/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/suiin_._/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wbo1026@naver.com)](mailto:wbo1026@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/suiin_._/)
