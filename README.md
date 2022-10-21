@@ -2,7 +2,7 @@
 ## Stay Hungry, Stay Foolish! 📒
 
 ### 🛠 Tech Stack 
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-yellow?style=flat-square&logo=Blogger&logoColor=white)](https://suin-it.tistory.com/)
+//[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-yellow?style=flat-square&logo=Blogger&logoColor=white)](https://suin-it.tistory.com/)
 
 [![Java Badge](https://img.shields.io/badge/-Java-%23ff5545?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) [![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/) [![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/) [![Oracle Badge](https://img.shields.io/badge/-oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white)](https://www.oracle.com/kr/) [![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc) 
 
