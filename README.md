@@ -5,7 +5,9 @@
 
 ### 🛠 Tech Stack 
 
-[![Java Badge](https://img.shields.io/badge/-Java-%23ff5545?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) [![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/) [![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/) [![Oracle Badge](https://img.shields.io/badge/-oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white)](https://www.oracle.com/kr/) [![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc)
+[![Java Badge](https://img.shields.io/badge/-Java-%23ff5545?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) [![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/) [![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/) 
+
+<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SuInWoo&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuInWoo&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbo1026)](https://solved.ac/profile/wbo1026)
